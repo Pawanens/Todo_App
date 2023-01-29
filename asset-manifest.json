@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Pawanens/Todo_App/static/css/main.d6affd83.css",
-    "main.js": "/Pawanens/Todo_App/static/js/main.25d04f3c.js",
-    "index.html": "/Pawanens/Todo_App/index.html",
-    "main.d6affd83.css.map": "/Pawanens/Todo_App/static/css/main.d6affd83.css.map",
-    "main.25d04f3c.js.map": "/Pawanens/Todo_App/static/js/main.25d04f3c.js.map"
+    "main.css": "/Todo_App/static/css/main.d6affd83.css",
+    "main.js": "/Todo_App/static/js/main.25d04f3c.js",
+    "index.html": "/Todo_App/index.html",
+    "main.d6affd83.css.map": "/Todo_App/static/css/main.d6affd83.css.map",
+    "main.25d04f3c.js.map": "/Todo_App/static/js/main.25d04f3c.js.map"
   },
   "entrypoints": [
     "static/css/main.d6affd83.css",
